@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiyanfnaflover-ui.github.io/fnaf-save-manager-app/sitemap.xml
+
+# Crawl-delay: 1
